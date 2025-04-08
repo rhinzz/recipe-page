@@ -26,7 +26,7 @@ Build out the recipe page and get it looking as close to the design as possible.
 
 ### Links
 
-- Live Site URL: [Click Here](https://rhinzz.github.io/Product-Preview-Card-Component/)
+- Live Site URL: [Click Here](https://rhinzz.github.io/recipe-page/)
 
 ## My process
 
