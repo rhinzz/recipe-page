@@ -22,7 +22,7 @@ Build out the recipe page and get it looking as close to the design as possible.
 
 ### Screenshot
 
-![](./desktop_screenshot.jpeg)
+![](./recipe-desktop.jpeg)
 
 ### Links
 
