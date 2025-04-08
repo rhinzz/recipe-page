@@ -63,8 +63,8 @@ p, li{
     width: 100%;
 }
 
-ul, ol{
-    padding-left: 1.25rem;
+ul, ol {
+    padding-left: 1.5rem;
 }
 
 li{
@@ -73,6 +73,11 @@ li{
 
 li::marker{
     color: var(--rose-800);
+    font-weight: 800;
+}
+
+hr{
+    margin: 1.5rem 0;
 }
 
 .prep{
@@ -86,8 +91,9 @@ li::marker{
     color: var(--rose-800);
 }
 
-.prep ul{
-    padding-left: 24px;
+.ingredients ul{
+    list-style-type: square;
+    padding: 0.5rem 0 0.5rem 1.5rem;
 }
 
 .attribution {
