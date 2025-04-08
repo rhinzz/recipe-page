@@ -115,7 +115,7 @@ hr {
     border-bottom: 1px solid #ddd;
 }
 
-.nutrition tr:last-child{
+.nutrition tr:last-child {
     border-bottom: none;
 }
 
@@ -140,7 +140,7 @@ hr {
 }
 
 @media only screen and (max-width: 512px) {
-    main{
+    main {
         margin: 0;
     }
 
@@ -150,16 +150,16 @@ hr {
         width: 100%;
     }
 
-    .card img{
+    .card img {
         border-radius: 0;
         margin: 0;
     }
 
-    .attribution{
-        display: none;
+    .text {
+        padding: 1.5rem;
     }
 
-    .text{
-        padding: 1.5rem;
+    .attribution {
+        display: none;
     }
 }
