@@ -9,6 +9,12 @@
     --rose-50: hsl(330, 100%, 98%);
 }
 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
